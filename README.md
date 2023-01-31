@@ -1,1 +1,1 @@
-# Practi Django
+# Practica Django
